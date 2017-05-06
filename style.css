@@ -1,0 +1,73 @@
+/*
+Theme Name: acc_wp_project
+Theme URI: http://underscores.me/
+Author: Misael Virissimo de Moura
+Author URI: https://github.com/MisaelMvM
+Description: Albany Can Code Project Class 5-03-2017
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: accproject
+Tags:
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+acc_wp_project is based on Underscores http://underscores.me/, (C) 2012-2016 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.io/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+
+/*--------------------------------------------------------------
+# Normalize
+--------------------------------------------------------------*/
+body {
+	/*background: #333!important;*/
+}
+#colophon {
+	margin-top: 20px;
+	color: white;
+}
+
+.nav-color {
+	margin: 0 !important;
+}
+
+#myCarousel {
+}
+
+aside {
+	/*display: none !important;*/
+}
+
+.fp-btn {
+	border-top-left-radius: 6px !important;
+  border-top-right-radius: 6px !important;
+  border-bottom-right-radius: 6px !important;
+  border-bottom-left-radius: 6px !important;
+}
